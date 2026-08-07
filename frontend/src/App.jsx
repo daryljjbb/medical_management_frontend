@@ -10,7 +10,7 @@ import Register from "./pages/Register.jsx";
 import Dashboard from "./pages/Dashboard.jsx";
 import Profile from "./pages/Profile.jsx";
 import EditProfile from "./pages/EditProfile.jsx";
-import ChangePassword from "./pages/ChangePassword.jsx";
+import ChangePassword from "./pages/ChangePassword.jsx";  
 import Notes from "./pages/Notes.jsx"
 import EditNote from "./pages/EditNote.jsx";
 import Tasks from "./pages/Tasks.jsx";
